@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">A passionate full stack web & app developer from Bharat 🇮🇳</h3>
+<h3 align="center">A passionate 🤓 full stack web & app developer from Bharat 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitbarate&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbarate" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **baraterohit100@gmail.com**
 
-- ⚡ Fun fact **YouTube courses is way better than paid courses | Change my mind**
+- ⚡ Fun fact **YouTube courses is way better than paid courses | Change my mind!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
