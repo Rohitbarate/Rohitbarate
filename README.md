@@ -14,8 +14,6 @@
 - 💬 Ask me about **React, React Native, Mern Stack, Backend**
 
 - 📫 How to reach me **baraterohit100@gmail.com**
-  
-- [erp ppt](https://gamma.app/docs/Revolutionizing-Institute-Management-with-Cloud-Based-ERP-u2zi7dbw1d8690v)
 
 - ⚡ Fun fact **YouTube courses is way better than paid courses | Change my mind!**
 
