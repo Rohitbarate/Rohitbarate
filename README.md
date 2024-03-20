@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitbarate&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbarate" /> </p>
 
-- 🔭 I’m currently working on [WhatsApp status saver](https://github.com/Rohitbarate/social-media-saver)
+- 🔭 I’m currently working on my startup [Delicious Dabbas food chain & co.](https://github.com/DeliciousDabbas)
 
-- 🌱 I’m currently learning **React Native, Mern Stack**
+- 🌱 I’m currently learning **Entrepreneureship**
 
-- 🤝 I’m looking for help with [WhatsApp status saver](https://github.com/Rohitbarate/social-media-saver)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Rohitbarate/](https://github.com/Rohitbarate/)
+- 👨‍💻 All of my projects are available at [Rohitbarate](https://github.com/Rohitbarate/)
 
 - 💬 Ask me about **React, React Native, Mern Stack, Backend**
 
